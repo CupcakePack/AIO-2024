@@ -33,29 +33,3 @@ while l <= r <= n - 1:
 output_file.write("%d\n" % count)
 input_file.close()
 output_file.close()
-
-# from collections import deque
-# f = open("shopin.txt", "r")
-# w = open("shopout.txt", "w")
-# n, k = map(int, f.readline().split())
-# items = list(map(int, f.readline().split()))
-# items = deque(items)
-# count = 0
-# l = 0
-# r = n - 1
-# while l <= r <= n - 1:
-#     while k > 0:
-#         count += items[0]
-#         items.pop()
-#         items.popleft()
-#         k -= 1
-#     if not (l <= r <= n - 1):
-#         break
-#     r = l + 1
-#     try:
-#         count += items[r]
-#     except IndexError:
-#         break
-#     l += 2
-#     r += 2
-# w.write(str(count))
