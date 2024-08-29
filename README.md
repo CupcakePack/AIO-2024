@@ -17,5 +17,12 @@ Use camel case, for example
 shoppingOwen.py or
 atlantisChanson.cpp.
 
+If your solution only yields a partial result, 
+add the amount of marks your solution scores 
+between the problem name and the first name,
+for example tennis25Owen.cpp. 
+Otherwise if it scores full marks (100) you
+do not need to add anything extra.
+
 ## Current contributors:
 @CupcakePack
