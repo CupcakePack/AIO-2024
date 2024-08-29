@@ -12,6 +12,7 @@ Community solutions to the Australian Informatics Olympiad (AIO) 2024
 ## Naming Guidelines
 Please name all files in the following format: 
 {problem name}{first name}
+
 Use camel case, for example
 shoppingOwen.py or
 atlantisChanson.cpp.
