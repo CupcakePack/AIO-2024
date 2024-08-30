@@ -18,9 +18,9 @@ shoppingOwen.py or
 atlantisChanson.cpp.
 
 If your solution only yields a partial result, 
-add the amount of marks your solution scores 
+add the subtask solution scores 
 between the problem name and the first name,
-for example tennis25Owen.cpp. 
+for example tennisSubtask1Owen.cpp. 
 Otherwise if it scores full marks (100) you
 do not need to add anything extra.
 
