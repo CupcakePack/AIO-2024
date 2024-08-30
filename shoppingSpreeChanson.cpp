@@ -2,6 +2,7 @@
 #include <deque>
 using namespace std;
 int main() {
+    // shopping spree implementation with deque
     freopen("shopin.txt", "r", stdin);
     freopen("shopout.txt", "w", stdout);
     int amount, coupons;
