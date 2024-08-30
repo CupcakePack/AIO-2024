@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    // bad subbookkeeper implementation
     freopen("bookin.txt", "r", stdin);
     freopen("bookout.txt", "w", stdout);
     int characters;
